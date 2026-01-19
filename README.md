@@ -1,4 +1,5 @@
 # E-Commerce Analytics Engineering Project
+![Dashboard Overview](visuals/dashboard_overview.png)
 
 ## 📌 Project Overview  
 This project demonstrates an **end-to-end Analytics Engineering workflow** using:
